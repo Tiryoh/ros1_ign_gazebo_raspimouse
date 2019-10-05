@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -eu
+
+SRC_DIR=$(cd $(dirname ${BASH_SOURCE:-$0}); pwd)
+MODEL_DIR=$(cd $SRC_DIR/../models; pwd)
+WORLD_DIR=$(cd $SRC_DIR/../worlds; pwd)
+
+echo $MODEL_DIR
+
+cd $WORLD_DIR
+sed -e 's%/home/ubuntu/catkin_ws/src/ros1_ign_gazebo_raspimouse/models%'$MODEL_DIR'%g' -i raspimouse_on_world.sdf

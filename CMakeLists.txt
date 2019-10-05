@@ -15,6 +15,7 @@ catkin_add_env_hooks(ign SHELLS zsh
 install(
   PROGRAMS
     scripts/ign_gazebo
+    scripts/configure_models
   DESTINATION
     ${CATKIN_PACKAGE_BIN_DESTINATION})
 
