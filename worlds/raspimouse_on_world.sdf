@@ -14,7 +14,7 @@
 
 -->
 <sdf version="1.6">
-    <world name="raspimouse_on_world">
+    <world name="diff_drive">
 
         <physics name="1ms" type="ode">
             <max_step_size>0.001</max_step_size>
@@ -67,7 +67,7 @@
                     </anchors>
                 </ignition-gui>
 
-                <play_pause>true</play_pause>
+                <play_pause>false</play_pause>
                 <step>true</step>
                 <start_paused>true</start_paused>
                 <service>/world/diff_drive/control</service>

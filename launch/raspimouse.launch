@@ -2,8 +2,7 @@
 <launch>
 
   <include file="$(find ros1_ign_gazebo_demos)/launch/ign_gazebo.launch">
-    <arg name="args" value="-r -v 3 /home/daisuke/.ignition/fuel/fuel.ignitionrobotics.org/openrobotics/models/raspimouse/2/model.sdf"/>
-    <!-- <arg name="args" value="-r -v 3 raspimouse_on_world.sdf"/> -->
+    <arg name="args" value="-r -v 3 raspimouse_on_world.sdf"/>
   </include>
 
   <node
