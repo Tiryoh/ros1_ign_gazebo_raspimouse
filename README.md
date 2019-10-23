@@ -8,7 +8,7 @@ details: https://products.rt-net.jp/micromouse/archives/8833
 
 Send commands to a differential drive vehicle and listen to its odometry.
 
-    roslaunch ros1_ign_gazebo_raspimouse raspimouse.launch
+    roslaunch ros_ign_gazebo_raspimouse raspimouse.launch
 
 Then send a command
 
@@ -25,5 +25,5 @@ Unless attributed otherwise, everything in this repository is under the Apache L
 
 ### Acknowledgements
 
-This repository is delivered from `ros1_ign_gazebo_demo` in [osrf/ros1_ign](https://github.com/osrf/ros1_ign).  
+This repository is delivered from `ros_ign_gazebo_demo` in [osrf/ros_ign](https://github.com/osrf/ros_ign).  
 by Open Robotics, licensed under the Apache License 2.0.
