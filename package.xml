@@ -3,6 +3,7 @@
   <version>0.1.0</version>
   <description>Demos using Ignition Gazebo simulation with ROS 1.</description>
   <license>Apache 2.0</license>
+  <maintainer email="tiryoh@gmail.com">Daisuke Sato</maintainer>
   <author email="louise@openrobotics.org">Louise Poubel</author>
   <author email="tiryoh@gmail.com">Daisuke Sato</author>
 
