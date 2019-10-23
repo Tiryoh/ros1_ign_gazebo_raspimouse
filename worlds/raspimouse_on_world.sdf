@@ -162,7 +162,7 @@
                 <visual name='visual'>
                     <geometry>
                         <mesh>
-                            <uri>file:///home/daisuke/ign_ws/src/ros1_ign_gazebo_raspimouse/models/raspimouse/meshes/dae/body/RasPiMouse_body.dae</uri>
+                            <uri>file:///home/ubuntu/catkin_ws/src/ros1_ign_gazebo_raspimouse/models/raspimouse/meshes/dae/body/RasPiMouse_body.dae</uri>
                             <!-- <uri>meshes/dae/body/RasPiMouse_body.dae</uri> -->
                         </mesh>
                     </geometry>
@@ -175,7 +175,7 @@
                 <collision name='collision'>
                     <geometry>
                         <mesh>
-                            <uri>file:///home/daisuke/ign_ws/src/ros1_ign_gazebo_raspimouse/models/raspimouse/meshes/dae/body/RasPiMouse_body.dae</uri>
+                            <uri>file:///home/ubuntu/catkin_ws/src/ros1_ign_gazebo_raspimouse/models/raspimouse/meshes/dae/body/RasPiMouse_body.dae</uri>
                             <!-- <uri>meshes/dae/body/RasPiMouse_body.dae</uri> -->
                         </mesh>
                     </geometry>
@@ -199,7 +199,7 @@
                 <visual name='visual'>
                     <geometry>
                         <mesh>
-                            <uri>file:///home/daisuke/ign_ws/src/ros1_ign_gazebo_raspimouse/models/raspimouse/meshes/dae/wheel/RasPiMouse_wheel.dae</uri>
+                            <uri>file:///home/ubuntu/catkin_ws/src/ros1_ign_gazebo_raspimouse/models/raspimouse/meshes/dae/wheel/RasPiMouse_wheel.dae</uri>
                             <!-- <uri>meshes/dae/wheel/RasPiMouse_wheel.dae</uri> -->
                         </mesh>
                     </geometry>
@@ -212,7 +212,7 @@
                 <collision name='collision'>
                     <geometry>
                         <mesh>
-                            <uri>file:///home/daisuke/ign_ws/src/ros1_ign_gazebo_raspimouse/models/raspimouse/meshes/dae/wheel/RasPiMouse_wheel.dae</uri>
+                            <uri>file:///home/ubuntu/catkin_ws/src/ros1_ign_gazebo_raspimouse/models/raspimouse/meshes/dae/wheel/RasPiMouse_wheel.dae</uri>
                             <!-- <uri>meshes/dae/wheel/RasPiMouse_wheel.dae</uri> -->
                         </mesh>
                     </geometry>
@@ -235,7 +235,7 @@
                 <visual name='visual'>
                     <geometry>
                         <mesh>
-                            <uri>file:///home/daisuke/ign_ws/src/ros1_ign_gazebo_raspimouse/models/raspimouse/meshes/dae/wheel/RasPiMouse_wheel.dae</uri>
+                            <uri>file:///home/ubuntu/catkin_ws/src/ros1_ign_gazebo_raspimouse/models/raspimouse/meshes/dae/wheel/RasPiMouse_wheel.dae</uri>
                             <!-- <uri>meshes/dae/wheel/RasPiMouse_wheel.dae</uri> -->
                         </mesh>
                     </geometry>
@@ -248,7 +248,7 @@
                 <collision name='collision'>
                     <geometry>
                         <mesh>
-                            <uri>file:///home/daisuke/ign_ws/src/ros1_ign_gazebo_raspimouse/models/raspimouse/meshes/dae/wheel/RasPiMouse_wheel.dae</uri>
+                            <uri>file:///home/ubuntu/catkin_ws/src/ros1_ign_gazebo_raspimouse/models/raspimouse/meshes/dae/wheel/RasPiMouse_wheel.dae</uri>
                             <!-- <uri>meshes/dae/wheel/RasPiMouse_wheel.dae</uri> -->
                         </mesh>
                     </geometry>
